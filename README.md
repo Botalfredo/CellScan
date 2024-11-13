@@ -1,6 +1,8 @@
 # CellScan
 CellScan is an open-source biological image analysis application designed to help researchers and biology professionals efficiently detect, analyse and quantify cells in microscopic images.
 
+![cellscan](image/image.png "cellscan")
+
 ## Features
 
 - **Automatic Cell Detection & Analysis**: Identify, count, and measure cells in high-resolution images accurately.
